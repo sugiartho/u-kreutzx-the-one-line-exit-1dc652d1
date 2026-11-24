@@ -1,8 +1,8 @@
 # The One-Line Exit
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1)
-[![Node 22](https://img.shields.io/badge/node-22-green)](https://nodejs.org)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![make.fun · u-kreutzx-the-one-line-exit-1dc652d1](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
+[![rank](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/sugiartho/u-kreutzx-the-one-line-exit-1dc652d1/rank.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
+[![reward](https://make.fun/badge/u-kreutzx-the-one-line-exit-1dc652d1/sugiartho/u-kreutzx-the-one-line-exit-1dc652d1/reward.svg)](https://make.fun/bounty/u-kreutzx-the-one-line-exit-1dc652d1?utm_source=github&utm_medium=readme&utm_campaign=u-kreutzx-the-one-line-exit-1dc652d1)
 
 One funny single-line resignation letter for make.fun's **The One-Line Exit** bounty ($2 in USDC, top 10 share the prize).
 
